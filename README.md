@@ -1,4 +1,4 @@
-# esx_hunting
+# efe-hunting
 
 [REQUIREMENTS]
   
@@ -9,6 +9,9 @@
 1) CD in your resources/[esx] folder
 
 2) Add this in your server.cfg :
-``start efe-hunting``
+``ensure or start efe-hunting``
 
 3) ``import items.sql``
+
+
+esx_hunting edited by 'Efe#2630
